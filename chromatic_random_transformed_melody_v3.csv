@@ -1,0 +1,68 @@
+Event_Number,Type,Note_Number,Note_Name,Velocity,Duration_Ticks,Duration_Name,Duration_Spanish
+1,rest,,,,120,1/16,semicorchea
+2,note,34,A#1,80,240,1/8,corchea
+3,note,32,G#1,80,960,1/2,blanca
+4,rest,,,,480,1/4,negra
+5,note,25,C#1,80,240,1/8,corchea
+6,note,26,D1,80,360,1/8 dotted,corchea con puntillo
+7,note,30,F#1,80,2880,whole dotted,redonda con puntillo
+8,rest,,,,480,1/4,negra
+9,note,28,E1,80,1440,1/2 dotted,blanca con puntillo
+10,note,35,B1,80,360,1/8 dotted,corchea con puntillo
+11,note,27,D#1,80,90,1/32 dotted,fusa con puntillo
+12,note,33,A1,80,90,1/32 dotted,fusa con puntillo
+13,note,29,F1,80,240,1/8,corchea
+14,note,31,G1,80,1920,whole,redonda
+15,note,24,C1,80,1440,1/2 dotted,blanca con puntillo
+16,note,24,C1,80,1440,1/2 dotted,blanca con puntillo
+17,note,31,G1,80,480,1/4,negra
+18,note,29,F1,80,360,1/8 dotted,corchea con puntillo
+19,note,33,A1,80,360,1/8 dotted,corchea con puntillo
+20,note,27,D#1,80,60,1/32,fusa
+21,note,35,B1,80,480,1/4,negra
+22,rest,,,,1920,whole,redonda
+23,note,28,E1,80,1920,whole,redonda
+24,note,30,F#1,80,1920,whole,redonda
+25,rest,,,,1920,whole,redonda
+26,note,26,D1,80,720,1/4 dotted,negra con puntillo
+27,rest,,,,240,1/8,corchea
+28,note,25,C#1,80,2880,whole dotted,redonda con puntillo
+29,rest,,,,120,1/16,semicorchea
+30,rest,,,,480,1/4,negra
+31,note,32,G#1,80,1920,whole,redonda
+32,note,34,A#1,80,90,1/32 dotted,fusa con puntillo
+33,rest,,,,480,1/4,negra
+34,note,34,A#1,80,360,1/8 dotted,corchea con puntillo
+35,note,36,C2,80,240,1/8,corchea
+36,rest,,,,1920,whole,redonda
+37,note,43,G2,80,180,1/16 dotted,semicorchea con puntillo
+38,rest,,,,960,1/2,blanca
+39,rest,,,,240,1/8,corchea
+40,note,42,F#2,80,480,1/4,negra
+41,note,38,D2,80,240,1/8,corchea
+42,note,40,E2,80,960,1/2,blanca
+43,note,33,A1,80,90,1/32 dotted,fusa con puntillo
+44,rest,,,,480,1/4,negra
+45,note,41,F2,80,240,1/8,corchea
+46,note,35,B1,80,240,1/8,corchea
+47,note,39,D#2,80,60,1/32,fusa
+48,note,37,C#2,80,90,1/32 dotted,fusa con puntillo
+49,rest,,,,960,1/2,blanca
+50,rest,,,,480,1/4,negra
+51,note,44,G#2,80,120,1/16,semicorchea
+52,note,44,G#2,80,960,1/2,blanca
+53,note,37,C#2,80,60,1/32,fusa
+54,rest,,,,60,1/32,fusa
+55,note,39,D#2,80,360,1/8 dotted,corchea con puntillo
+56,note,35,B1,80,2880,whole dotted,redonda con puntillo
+57,rest,,,,120,1/16,semicorchea
+58,note,41,F2,80,180,1/16 dotted,semicorchea con puntillo
+59,note,33,A1,80,180,1/16 dotted,semicorchea con puntillo
+60,note,40,E2,80,180,1/16 dotted,semicorchea con puntillo
+61,rest,,,,60,1/32,fusa
+62,note,38,D2,80,1920,whole,redonda
+63,rest,,,,240,1/8,corchea
+64,note,42,F#2,80,120,1/16,semicorchea
+65,note,43,G2,80,960,1/2,blanca
+66,note,36,C2,80,240,1/8,corchea
+67,rest,,,,60,1/32,fusa
